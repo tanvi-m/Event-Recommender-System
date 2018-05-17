@@ -13,6 +13,6 @@ The user
 
 ## Usage
 
-'''
+```
 python3 final.py
-'''
+```
