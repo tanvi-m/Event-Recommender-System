@@ -10,7 +10,7 @@ A list of events with its attributes like date, time, venue etc is present in ev
 ***************************************************************************
 Choose one of the following options:
      Update likes (1)
-     Get reccomendation(Make sure you have liked at least one event) (2)
+     Get recommendation(Make sure you have liked at least one event) (2)
      Start afresh (3)
      Quit (Q)
 ****************************************************************************
