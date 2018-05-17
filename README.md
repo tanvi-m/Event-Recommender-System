@@ -17,13 +17,13 @@ Choose one of the following options:
 ```
 Option 1 : On selecting option the user will be asked to update the event index that he likes. User can choose from events.csv or topic.txt for heading of the events. This is step has to be done atleast once in order to get recommendation.
 
-Option 2 : Using tf-idf vectorizer on description of the events cosine similarity is calculated and the most relevant event is recommended. 
+Option 2 : Using tf-idf vectorizer on description of the events, cosine similarity is calculated and the most relevant event is recommended. 
 
-Option 3 : If he user wishes to remove his or her previous likes history and wants to start afresh.
+Option 3 : If the user wishes to remove his or her previous likes history and wants to start afresh.
 
 ## Implementation
 
-The implementation is done in python using Pandas data frame and using the Description to get cosine similarity between liked events and non liked event and scikit-learn is used for the same.
+The implementation is done in python using Pandas data frame and using the Description column to get cosine similarity between liked events and non liked event and scikit-learn is used for the same.
 
 ## Usage
 
