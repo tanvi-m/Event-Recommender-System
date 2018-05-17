@@ -111,13 +111,13 @@ if __name__ == '__main__':
 
     #User Menu
     while True:
-        print("\n\n\n\n\n********************************************")
+        print("\n\n\n\n\n***************************************************************************")
         print("Choose one of the following options:")
         print("     Update likes (1)")
-        print("     Get reccomendation(Make sure you have liked at least one event) (2)")
+        print("     Get recommendation(Make sure you have liked at least one event) (2)")
         print("     Start afresh (3)")
         print("     Quit (Q)")
-        print("**********************************************")
+        print("****************************************************************************")
 
         option = input("Option- ") 
 
