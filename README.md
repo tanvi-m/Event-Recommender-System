@@ -23,7 +23,10 @@ Option 3 : If the user wishes to remove his or her previous likes history and wa
 
 ## Implementation
 
-The implementation is done in python using Pandas data frame and using the Description column to get cosine similarity between liked events and non liked event and scikit-learn is used for the same.
+The implementation is done in python using Pandas data frame. Stop words were removed from the events description and then tf-idf vectorization was applied on events decription column. To recommend events to the user, cosine similarity function was used from sklearn package and using the description column, cosine similarity between liked events and non-liked events was calculated to determine the top event to be recommended.
+
+Feature used: TfidfVectorizer
+Similarity measure: Cosine similarity
 
 ## Usage
 
