@@ -1,0 +1,220 @@
+Career Fair Prep Session 1: What Why When How?
+MS/IM Virtual Information Session
+MS/LIS Virtual Information Session
+Career Fair Prep Session 2: Get Resume Ready
+Career Fair Prep Session 3: Polish Your Pitch
+Blackboard Collaborate Basics Workshop
+CPT Workshop for International Students
+Blackboard Collaborate Basics Workshop
+Career Fair Prep Session 4: The Job Offer
+Blackboard Collaborate Basics Workshop
+Whiteboard Coding Practice
+iSchool 101: On-campus MS/LIS Orientation
+Blackboard Collaborate Basics Workshop
+On-campus MS/IM Orientation & Breakfast
+Blackboard Collaborate Basics Workshop
+Libraries Literatures and Literacies Minitalk: Clara Chu
+Professional Mentor Program Orientation
+Find Out About! K-12 Licensure Program
+Info City Lecture
+Dissertation Proposal Defense: Craig Willis
+Professional Mentor Program Orientation
+Falun Dafa Weekly Meeting
+Spring 2019 Dance Classes
+Tango Dance Practice
+Illini Chess Club Meeting
+Illini Dancesport Practice Space
+Asian American Association
+ Kappa Phi Lambda Sorority
+The Walking Dead
+RSO Registration
+Gems Camp Registration Open
+Gems Camp Registration Open
+Gems Camp Registration Open
+Gems Camp Registration Open
+Gems Camp Registration Open
+Final Exam of Seyyed Mohammad Hosseini
+Farewell Reception For CS Department Head Rob A. Rutenbar
+Gems Camp Registration Open
+Gems Camp Registration Open
+Girls Who Code Weekly Meeting
+Gems Camp Registration Open
+Final Exam of Jon Calhoun
+Final Exam of Chen-Tse Tsai
+CS @ ILLINOIS Graduation Celebration - Class of 2017
+Final Exam of Yinan Zhang
+Final Exam of Robert Deloatch
+Final Exam of Fred Douglas
+Chicago Alumni Networking Event
+Final Exam of Gabriel Alexandru Gyori
+Final Exam of Kevin Shih
+Final Exam of Qieyun Dai
+Final Exam of Codruta Girlea
+Final Exam of Minas Charalambides
+Final Exam of Chih-Chieh Yang
+CS @ ILLINOIS Bay Area Alumni Networking Event - Sunnyvale
+CS @ ILLINOIS Bay Area Alumni Networking Event - San Francisco
+Final Exam of Matt Sinclair
+Professor Todd Austin  (Peering into the Post Moore's Law World)
+Caterpillar Tech Talk
+Final Exam of Bilge Acun
+Final Exam of Rashid Tahir
+Final Exam of Minas Charalambides
+Vijaya Ramachandran (Efficient Resource-Oblivious Multithreaded Algorithms)
+Final Exam of Fangbo Tao
+Caterpillar Tech Talk
+Celebrating CS @ ILLINOIS
+IMC Tech Talk
+ViaSat Tech Talk
+Girls Who Code Club
+Tim Roughgarden: "How Computer Science Informs Modern Auction Design"
+The Corporate Connection After Hours
+The Climate Corporation Tech Talk
+VMWare Tech Talk
+Yahoo Tech Talk
+Facebook Corporate Day
+Facebook Tech Talk
+Girls Who Code Club
+Capital One Corporate Day
+Aude Oliva: "Mapping the spatio-temporal dynamics of vision in the human brain"
+Capital One Tech Talk
+Research Park at Siebel
+Northern Trust Tech Talk
+Ocient Tech Talk
+Knowledge at Work: The University of Illinois at 150
+Girls Who Code Club
+Ben Raphael: "Computational Problems in Cancer Genomics"
+THE COMPUTER SAYS NO
+HOW TO WATCH THEM WATCHING YOU
+Padhu Seshaiyer: "Research and Education using STEM based approaches for modeling, analysis and simulation of biological, bio-inspired and engineering systems"
+Girls Who Code Club
+IBM Tech Talk
+Research Park Tech Talk
+VMWare Tech Talk
+Capital One Tech Talk
+Girls Who Code Club
+Final Exam of Mahanth Gowda
+Eva Tardos: Learning with Low Approximate Regret with Partial Feedback
+Balyasny Asset Management Tech Talk
+Visa Tech Talk
+Visa PhD Talk
+Ocient Corporate Day
+CS @ ILLINOIS Alumni & Student Networking Snack Break
+Girls Who Code Club
+Final Exam of Mary Pietrowicz
+Gillies Lecture: "Intelligent Robots in an Uncertain World"
+Women in Computer Science Alumni & Student Dinner
+Women in Computer Science (WCS) Keynote Address
+CS @ ILLINOIS 2017 Alumni & Student Discussion and Lunch
+CS @ ILLINOIS Award Keynote: Steven M. LaValle
+Indeed Coding Competition
+CS @ ILLINOIS Alumni Awards Dinner & Ceremony
+Girls Who Code Club
+Save the Date: ThinkChicago Roadshow
+Service Now Lobby Day
+Service Now Tech Talk
+Girls Who Code Club
+Andreas Zeller: Mining Input Grammars for Massive Security Testing
+Final Exam of Xiao "Chris" Cai
+Engineer in Residence (EIR) Lunch & Talk with CS Alumnus and Entrepreneur Cory Levy
+Office Hours with CS Alumnus & Entrepreneur Cory Levy
+Research Park Tech Showcase
+Andrew W. Appel: Verifiable C, a logic and tool for deductive verification of the correctness of C programs
+Girls Who Code Club
+Heng Ji: Universal Information Extraction
+Alex Aiken: Legion - Programming Heterogeneous, Distributed Parallel Machines
+Enodo Tech Talk
+Investiture Ceremony and Reception for Timothy Chan and Sheldon H. Jacobson
+Somesh Jha: Balancing Security+Privacy and Functionality in Software Synthesis
+Feifei Li: Towards Building Interactive and Online Analytical Systems
+Girls Who Code Club
+Manuela Veloso: Human-AI Interaction - Autonomous Service Robots
+Book Event: "The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture"
+Final Exam of Jason Croft
+Final Exam of Wenxuan Zhou
+Bank of America Corporate Day
+Bank of America Tech Talk
+Nadia Heninger: How not to generate random numbers
+Laura Haas: Leveraging data and people to accelerate data science
+Veriflow Tech Talk
+Gautam Das: Data Exploration and Analytics: Fundamental Algorithms and Emerging Applications
+Final Exam of Xiang Ren
+Girls Who Code Club
+Hour of Code at CS @ ILLINOIS
+Final Exam of Imani Palmer
+Girls Who Code Club
+Shuzhi Sam Ge: Historical and Futuristic Perspectives of Robotics
+Virtual Reality Open House
+Girls Who Code Club
+Girls Who Code Club
+Girls Who Code Club
+Aravind Srinivasan: Algorithms, Randomness, and Networks: Confluence and Applications
+Aravind Srinivasan: A Vision for the Future of Illinois Computer Science
+Office of Technology Management Information Session
+CME Hack Challenge
+Ask CME
+Todd M. Austin: "Peering Into the Post Moore's Law World"
+Capital One Corporate Day
+Capital One Tech Talk
+Todd M. Austin: "Finding Stability, Success, and Fulfillment for the Modern Computer Science Department"
+Daniel Genkin: "Real World Security: From Theory to Practice and Back Again"
+Cathy Wu: "Mixed-Autonomy Mobility: Large-Scale Learning and Optimization"
+CME Tech Talk
+Ask CME
+The Corporate Connection Spring 2018 After Hours
+Schlumberger Lobby Day
+Matthew O'Toole: "Probing Light Transport for 3D Shape"
+Oath/Yahoo Tech Talk
+Final Exam of Cosmin Radoi
+Heng Ji: "Universal Information Extraction"
+Srinivas Aluru: "Genomes Galore: Big Data Challenges in the Life Sciences"
+Srinivas Aluru: "Navigating the Ever-changing Landscape of Computer Science and Ensuring the Preeminence of Illinois Computer Science"
+Nancy M. Amato: "Sampling-Based Motion Planning: From Manipulation Planning to Intelligent CAD to Protein Folding"
+Nancy M. Amato: "Computer Science: Scaling, Adapting, and Advancing"
+West Monroe Partners Tech Talk
+Xiao Wang: "Pushing Secure Multi-Party Computation to Reality"
+Smart Contracts: Opportunities and Challenges for PL and Formal Methods
+Abdu Alawini: Teaching Presentation
+Elisa Celis: "Fairness and Diversity in Online Social Systems"
+Srinadh Bhojanapalli: "Effectiveness of Local Search in Machine Learning"
+Nima Kalantari: "Utilizing Physics in Deep Learning for Graphics"
+Adriana Schulz: "Computational Design for the Next Manufacturing Revolution"
+Ling Ren: "Efficient and Egalitarian Consensus"
+Aaditya Ramdas: "A New Framework for Large-Scale Sequential A/B Testing"
+Shuran Song: "Seeing the Unseen: Data-Driven 3D Scene Understanding for Robot Vision"
+Dong Deng: "Data Curation at Scale"
+Danqi Chen: "Knowledge from Language via Deep Understanding"
+Final Exam of Read Sprabery
+Parisa Tabriz: Engineering Open House Keynote Address
+Final Exam of Chao Xu
+Vinodkumar Prabhakaran: "Language Technologies for Social Good"
+Joy Arulraj: "Data Management on Non-Volatile Memory"
+Kris Hauser: "Think Globally: Toward Deeper Understanding of Robot Motion"
+Final Exam of Prasanna Giridhar
+Pavel Pevzner: "Bioinformatics: a Servant or the Queen of Molecular Biology?"
+Adams Wei Yu: "Efficient Models and Algorithms for Deep Learning"
+Bank of America Corporate Day
+Final Exam of Bryan Plummer
+Investiture of Vikram S. Adve as the Donald B. Gillies Professor in Computer Science
+Bank of America Tech Talk
+Yangfeng Ji: "Bringing Structural Information into Neural Network Design"
+Himabindu Lakkaraju: "Human-Centric Machine Learning: Enabling Machine Learning for High-Stakes Decision-Making"
+Feifei Li: "Random Sampling over Joins and Its Applications"
+Final Exam of Farah Hariri
+Final Exam Wei Yang
+Hanghang Tong: "Deep Network Mining: Exploring the Power and Beauty of Network of Networks"
+Final Exam of Soteris Demetriou
+Final Exam of Arun M Mallya
+Dakshita Khurana: "Breaking Cryptographic Barriers"
+Final Exam of Minas Charalambides
+Elena Glassman: "Interactive Systems for Code and Data Demography"
+CME Tech Talk
+SAIL
+ACM ICPC Spring Coding Contest
+Michael Stonebraker, Donald B. Gillies Memorial Lecture: "My Top Ten Fears About the DBMS Field"
+John Deere Tech Talk
+Daniel Epstein: "Everyday Personal Informatics"
+Lawrence Rauchwerger: "Two Roads to Parallelism:  Compilers and Libraries"
+Forrest Iandola/Deepscale Talk
+Jinguri He: "Taming Data Heterogeneity: Towards a Unified Framework"
+Huacheng Yu: "Better understanding of efficient dynamic data structures"
