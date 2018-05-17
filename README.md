@@ -33,3 +33,6 @@ Similarity measure: Cosine similarity
 ```
 python3 final.py
 ```
+## Future Work
+
+Make a GUI and a web application for the recommender where users can login and update preference via an intutive UI.
